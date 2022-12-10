@@ -1,0 +1,25 @@
+{
+  "name": "vue-2__websocket__chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArefievVyacheslav/VUE-2__WEBSOCKET__chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArefievVyacheslav/VUE-2__WEBSOCKET__chat/issues"
+  },
+  "homepage": "https://github.com/ArefievVyacheslav/VUE-2__WEBSOCKET__chat#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
